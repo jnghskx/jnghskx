@@ -1,5 +1,6 @@
-## Nym time woohoo!
-![hai](https://i.imgur.com/SufJ2f8.png)
+### Nym time woohoo!
+![hai](https://i.imgur.com/EGmISkV.gif)
+
 <!--
 **jnghskx/jnghskx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
